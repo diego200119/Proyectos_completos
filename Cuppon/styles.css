@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(255, 215, 215, 0.4);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.precio{
+    position: relative;
+    left: 120px;
+    text-align: auto;
+}
+.colorprecio{
+    color: green;
+    font-size: 20px;
+    
+}
+.headerbase{
+    background-color: rgb(25, 135, 84);
+    height: 300px;
+
+}
+.Rcupones{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 20px;
+}
+
+
+ 
+.final{
+    text-align: center;
+}
+.row{
+    position: relative;
+    left: 70px;
+}
